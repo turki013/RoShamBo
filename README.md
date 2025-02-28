@@ -2,7 +2,17 @@
 
 
 ![Rock_paper_scissors](https://mir-s3-cdn-cf.behance.net/project_modules/hd/e3ec3f55030205.5974446dcd299.jpg)
-# RoShamBo - Rock, Paper, Scissors Game 🪨📄✂️
+
+# **RoShamBo** - __Rock__, **Paper**, **Scissors** Game 🪨📄✂️
+
+![GitHub Repo stars](https://img.shields.io/github/stars/turki013/RoShamBo?style=social)
+![GitHub forks](https://img.shields.io/github/forks/turki013/RoShamBo?style=social)
+![GitHub issues](https://img.shields.io/github/issues/turki013/RoShamBo)
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/turki013/RoShamBo)
+![GitHub last commit](https://img.shields.io/github/last-commit/turki013/RoShamBo)
+![GitHub repo size](https://img.shields.io/github/repo-size/turki013/RoShamBo)
+![License](https://img.shields.io/github/license/turki013/RoShamBo)
 
 ## 📋 Introduction
 **RoShamBo** is a simple and fun project where you can challenge an AI in the classic game of **"Rock, Paper, Scissors"**! Test your luck and strategy to see if you can outsmart the AI.
