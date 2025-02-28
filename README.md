@@ -49,7 +49,7 @@
 3. Open a terminal and navigate to the file's directory.
 4. Run the program using the command:
    ```bash
-   python filename.py
+   python RoShamBo.py
    ```
 5. Enjoy the game! 🎉
 
