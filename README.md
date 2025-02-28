@@ -1,7 +1,7 @@
 
 
 
-
+![Rock_paper_scissors](https://mir-s3-cdn-cf.behance.net/project_modules/hd/e3ec3f55030205.5974446dcd299.jpg)
 # RoShamBo - Rock, Paper, Scissors Game 🪨📄✂️
 
 ## 📋 Introduction
