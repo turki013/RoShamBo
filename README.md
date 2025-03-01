@@ -16,7 +16,7 @@
 
 ## 📋 Introduction
 **RoShamBo** is a simple Python-based
-Rock, Paper, Scissors game where you can compete against an Al. Test your strategy and see if you can outsmart it!"
+Rock, Paper, Scissors game where you can compete against an Al. Test your strategy and see if you can outsmart it
 
 ---
 
