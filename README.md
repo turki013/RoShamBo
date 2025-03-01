@@ -15,7 +15,8 @@
 ![License](https://img.shields.io/github/license/turki013/RoShamBo)
 
 ## 📋 Introduction
-**RoShamBo** is a simple and fun project where you can challenge an AI in the classic game of **"Rock, Paper, Scissors"**! Test your luck and strategy to see if you can outsmart the AI.
+**RoShamBo** is a simple Python-based
+Rock, Paper, Scissors game where you can compete against an Al. Test your strategy and see if you can outsmart it!"
 
 ---
 
